@@ -1,7 +1,11 @@
 Hello github
 ============
-C
+#C
+
   printf("Hello github!");
-Python
+
+#Python
+
   print("Hello github!")
+  
   
