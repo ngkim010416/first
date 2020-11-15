@@ -3,15 +3,15 @@ Hello github
 
 ### C
 ```c
-  printf("Hello github!");
+  printf("Hello, github!");
 ```
 
 ### Python
 ```python
-  print("Hello github!")
+  print("Hello, github!")
 ```
 
 ### Java
 ```java
-  System.out.println("Hello github");
+  System.out.println("Hello, github");
 ```
