@@ -1,17 +1,17 @@
 Hello github
 ============
 
-# C
+### C
 ```C
   printf("Hello github!");
 ```
 
-# Python
+### Python
 ```Python
   print("Hello github!")
 ```
 
-# Java
+### Java
 ```Java
   System.out.println("Hello github");
 ```
