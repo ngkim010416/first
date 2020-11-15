@@ -1,2 +1,7 @@
-안녕하세요
-개발자 정보: 호서대학교 컴퓨터정보공학부 1학년 재학중, 김나경
+Hello github
+============
+C
+  printf("Hello github!");
+Python
+  print("Hello github!")
+  
